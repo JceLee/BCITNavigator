@@ -1,0 +1,2 @@
+# BCITNavigator
+Spatial Mapping project
